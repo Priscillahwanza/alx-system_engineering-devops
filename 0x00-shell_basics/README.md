@@ -1,1 +1,1 @@
-Scripts one Absolute path
+Shell basics, Navigation
